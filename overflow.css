@@ -1,0 +1,17 @@
+.div-1{
+    width: 600px;
+    height: 500px;
+    border: 1px solid orange;
+    overflow: hidden;
+
+}
+.para{
+    width: 300px;
+    height: 200px;
+    text-overflow: ellipsis;
+    border: 2px solid blue;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
