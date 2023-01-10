@@ -47,3 +47,15 @@
 .field-1:hover .ball-1{
     transform: translate(850px, -100px);
 }
+/* for grid  */
+.grid-temp{
+    display: grid;
+    grid-template-columns: repeat(6 , 200px);
+
+}
+.grid{
+    width: 70px;
+    height: 40px;
+    border: 1px solid rebeccapurple;
+    border-radius: 3px;
+}
